@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Vyoma Shah👋
+<b>🎓 Software Engineering Student<br>
+🔍 Actively seeking co-op/internship opportunities</b>
+
+🌱 I'm a software engineering student driven by a passion for real-life innovation, constantly seeking ways to apply technology to solve everyday challenges and improve user experiences. My interests lie in software development, embedded systems, AI, database mangement, and machine learning. I look forward to exploring new ways to enhance our software world.
+
+📫 How to reach me:
+- LinkedIn: Vyoma Shah
+- Mail: vyomajshah@gmail.com
+
 
 <!--
 **Vyoma22/Vyoma22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
